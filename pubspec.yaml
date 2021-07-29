@@ -12,12 +12,9 @@ dependencies:
   js: ^0.6.1+1
   meta: ^1.1.8
   node_interop: ^2.0.0
-  # node_io: ^1.0.1+2
-  # node_http: ^1.0.0
-  # firebase_admin_interop:
   firebase_admin_interop:
     git:
-      url: git://github.com/tekartikdev/firebase-admin-interop
+      url: https://github.com/aler/firebase-admin-interop
       ref: null_safety
   tekartik_http_node:
     git:
